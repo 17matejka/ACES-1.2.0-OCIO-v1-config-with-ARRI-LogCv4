@@ -19,4 +19,4 @@ For LogCv4 definition, I used an official document from ARRI:
 https://www.arri.com/resource/blob/278790/bea879ac0d041a925bed27a096ab3ec2/2022-05-arri-logc4-specification-data.pdf
 
 And for the color space conversion matrix, I used this calculator from Harald Brendel - Head of the Image Science Team at ARRI:
-http://color.support/colorspacecalculureator.html
+http://color.support/colorspacecalculator.html
