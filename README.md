@@ -13,7 +13,7 @@ For building ACES source code, I used this article/tutorial from Nathan Inglesby
 https://www.postwork.io/blog/2021/7/6/creating-an-f-log-colorspace-for-the-aces-ocio-config-in-nuke
 
 I tried to build ACES 1.2, but I could not figure out the right dependencies - fixed 1, broke 1.
-So I stick with Nathan's Docker build for ACES 1.1. For my purpose it does not matter, because from this build I only need it .spi1d LUT LogC4_to_Linear.spi1d to generate. Than I copy LogCv4 from this 1.1 build to ACES 1.2.0 oficial config a little modified it.
+So I sticked with Nathan's Docker build for ACES 1.1. For my purpose it does not matter, because from this build I only wanted to generate .spi1d LUT LogC4_to_Linear.spi1d. Than I copy LogCv4 color space definition from this 1.1 build to ACES 1.2.0 oficial config a little modified it.
 
 For LogCv4 definition, I used an official document from ARRI:
 https://www.arri.com/resource/blob/278790/bea879ac0d041a925bed27a096ab3ec2/2022-05-arri-logc4-specification-data.pdf
