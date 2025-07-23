@@ -20,3 +20,7 @@ https://www.arri.com/resource/blob/278790/bea879ac0d041a925bed27a096ab3ec2/2022-
 
 And for the color space conversion matrix, I used this calculator from Harald Brendel - Head of the Image Science Team at ARRI:
 http://color.support/colorspacecalculator.html
+
+Update:
+
+-Add AppleLog support. For Lin 2 Log I used official LUT and for the color space conversion matrix I used the same calculator. The right coordinates I found in Apple Log Profile White Paper (September 2023)
