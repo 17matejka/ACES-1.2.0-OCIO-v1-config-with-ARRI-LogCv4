@@ -187,7 +187,7 @@ colorspaces:
 
   - !<ColorSpace>
     name: Input - ARRI - V3 LogC (EI160) - Wide Gamut
-    family: Input/ARRI
+    family: Input/ARRIv3
     equalitygroup: ""
     bitdepth: 32f
     description: |
@@ -204,7 +204,7 @@ colorspaces:
 
   - !<ColorSpace>
     name: Input - ARRI - V3 LogC (EI200) - Wide Gamut
-    family: Input/ARRI
+    family: Input/ARRIv3
     equalitygroup: ""
     bitdepth: 32f
     description: |
@@ -221,7 +221,7 @@ colorspaces:
 
   - !<ColorSpace>
     name: Input - ARRI - V3 LogC (EI250) - Wide Gamut
-    family: Input/ARRI
+    family: Input/ARRIv3
     equalitygroup: ""
     bitdepth: 32f
     description: |
@@ -238,7 +238,7 @@ colorspaces:
 
   - !<ColorSpace>
     name: Input - ARRI - V3 LogC (EI320) - Wide Gamut
-    family: Input/ARRI
+    family: Input/ARRIv3
     equalitygroup: ""
     bitdepth: 32f
     description: |
@@ -255,7 +255,7 @@ colorspaces:
 
   - !<ColorSpace>
     name: Input - ARRI - V3 LogC (EI400) - Wide Gamut
-    family: Input/ARRI
+    family: Input/ARRIv3
     equalitygroup: ""
     bitdepth: 32f
     description: |
@@ -272,7 +272,7 @@ colorspaces:
 
   - !<ColorSpace>
     name: Input - ARRI - V3 LogC (EI500) - Wide Gamut
-    family: Input/ARRI
+    family: Input/ARRIv3
     equalitygroup: ""
     bitdepth: 32f
     description: |
@@ -289,7 +289,7 @@ colorspaces:
 
   - !<ColorSpace>
     name: Input - ARRI - V3 LogC (EI640) - Wide Gamut
-    family: Input/ARRI
+    family: Input/ARRIv3
     equalitygroup: ""
     bitdepth: 32f
     description: |
@@ -306,7 +306,7 @@ colorspaces:
 
   - !<ColorSpace>
     name: Input - ARRI - V3 LogC (EI800) - Wide Gamut
-    family: Input/ARRI
+    family: Input/ARRIv3
     equalitygroup: ""
     bitdepth: 32f
     description: |
@@ -323,7 +323,7 @@ colorspaces:
 
   - !<ColorSpace>
     name: Input - ARRI - V3 LogC (EI1000) - Wide Gamut
-    family: Input/ARRI
+    family: Input/ARRIv3
     equalitygroup: ""
     bitdepth: 32f
     description: |
@@ -340,7 +340,7 @@ colorspaces:
 
   - !<ColorSpace>
     name: Input - ARRI - V3 LogC (EI1280) - Wide Gamut
-    family: Input/ARRI
+    family: Input/ARRIv3
     equalitygroup: ""
     bitdepth: 32f
     description: |
@@ -357,7 +357,7 @@ colorspaces:
 
   - !<ColorSpace>
     name: Input - ARRI - V3 LogC (EI1600) - Wide Gamut
-    family: Input/ARRI
+    family: Input/ARRIv3
     equalitygroup: ""
     bitdepth: 32f
     description: |
@@ -374,7 +374,7 @@ colorspaces:
 
   - !<ColorSpace>
     name: Input - ARRI - V3 LogC (EI2000) - Wide Gamut
-    family: Input/ARRI
+    family: Input/ARRIv3
     equalitygroup: ""
     bitdepth: 32f
     description: |
@@ -391,7 +391,7 @@ colorspaces:
 
   - !<ColorSpace>
     name: Input - ARRI - V3 LogC (EI2560) - Wide Gamut
-    family: Input/ARRI
+    family: Input/ARRIv3
     equalitygroup: ""
     bitdepth: 32f
     description: |
@@ -408,7 +408,7 @@ colorspaces:
 
   - !<ColorSpace>
     name: Input - ARRI - V3 LogC (EI3200) - Wide Gamut
-    family: Input/ARRI
+    family: Input/ARRIv3
     equalitygroup: ""
     bitdepth: 32f
     description: |
@@ -425,7 +425,7 @@ colorspaces:
 
   - !<ColorSpace>
     name: Input - ARRI - Curve - V3 LogC (EI800)
-    family: Input/ARRI
+    family: Input/ARRIv3
     equalitygroup: ""
     bitdepth: 32f
     description: |
@@ -437,7 +437,7 @@ colorspaces:
 
   - !<ColorSpace>
     name: Input - ARRI - Linear - ALEXA Wide Gamut
-    family: Input/ARRI
+    family: Input/ARRIv3
     equalitygroup: ""
     bitdepth: 32f
     description: |
@@ -449,7 +449,7 @@ colorspaces:
 
   - !<ColorSpace>
     name: Input - ARRI - V4 LogC - Wide Gamut 
-    family: Input/ARRIv4
+    family: Input/ARRIv3v4
     equalitygroup: ""
     bitdepth: 32f
     description: |
@@ -466,7 +466,7 @@ colorspaces:
 
   - !<ColorSpace>
     name: Input - ARRI - Curve - V4 LogC
-    family: Input/ARRIv4
+    family: Input/ARRIv3v4
     equalitygroup: ""
     bitdepth: 32f
     description: |
@@ -478,7 +478,7 @@ colorspaces:
 
   - !<ColorSpace>
     name: Input - ARRI - Linear - V4 ALEXA Wide Gamut
-    family: Input/ARRIv4
+    family: Input/ARRIv3v4
     equalitygroup: ""
     bitdepth: 32f
     description: |
