@@ -186,6 +186,22 @@ colorspaces:
         - !<MatrixTransform> {matrix: [0.678891, 0.158868, 0.162240, 0, 0.045571, 0.860713, 0.093716, 0, -0.000486, 0.025060, 0.975426, 0, 0, 0, 0, 1]}
 
   - !<ColorSpace>
+    name: Input - DJI - DLog - DGamut
+    family: Input/DJI
+    equalitygroup: ""
+    bitdepth: 32f
+    description: |
+      DJI log (CAT02)
+      
+    isdata: false
+    allocation: uniform
+    allocationvars: [0, 1]
+    to_reference: !<GroupTransform>
+      children:
+        - !<FileTransform> {src: Linear_to_D-Log.cube, interpolation: linear, direction: inverse}
+        - !<MatrixTransform> {matrix: [0.691279, 0.214383, 0.094338, 0, 0.066222, 1.011616, -0.077838, 0, -0.017299, -0.077379, 1.094677, 0, 0, 0, 0, 1]}
+
+  - !<ColorSpace>
     name: Input - ARRI - V3 LogC (EI160) - Wide Gamut
     family: Input/ARRIv3
     equalitygroup: ""
