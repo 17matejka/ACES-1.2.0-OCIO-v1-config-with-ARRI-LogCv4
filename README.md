@@ -1,7 +1,7 @@
-# ACES-1.2.0-OCIO-v1-config-with-ARRI-LogCv4-AppleLog
+# ACES-1.2.0-OCIO-v1-config-with-ARRI-LogCv4-AppleLog-Dlog
 Author: Jakub Matejka
 
-ACES 1.2.0 config with ARRI LogCv4, AppleLog added
+ACES 1.2.0 config with ARRI LogCv4, AppleLog, Dlog added
 
 ARRI LogCv4 is officially supported in ACES 1.3 OCIO 2.x configs.
 So I made a custom OCIO 1.x config with LogCv4.
@@ -21,6 +21,9 @@ https://www.arri.com/resource/blob/278790/bea879ac0d041a925bed27a096ab3ec2/2022-
 And for the color space conversion matrix, I used this calculator from Harald Brendel - Head of the Image Science Team at ARRI:
 http://color.support/colorspacecalculator.html
 
-Update:
+Update September 2023:
 
--Add AppleLog support. For Lin 2 Log I used official LUT and for the color space conversion matrix I used the same calculator. The right coordinates I found in Apple Log Profile White Paper (September 2023)
+-Add AppleLog support. For Lin 2 Log I used official LUT and for the color space conversion matrix I used the same calculator. The right coordinates I found in Apple Log Profile White Paper
+
+Update September 2026:
+-Add DJI D-Log support. For Lin 2 Log I used official LUT and for the color space conversion matrix I used the same calculator. The right coordinates I found in DJI D-Log Profile White Paper
