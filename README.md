@@ -1,4 +1,4 @@
-# ACES-1.2.0-OCIO-v1-config-with-ARRI-LogCv4
+# ACES-1.2.0-OCIO-v1-config-with-ARRI-LogCv4-AppleLog
 Author: Jakub Matejka
 
 ACES 1.2.0 config with ARRI LogCv4, AppleLog added
