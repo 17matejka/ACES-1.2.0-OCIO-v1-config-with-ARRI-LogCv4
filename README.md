@@ -26,4 +26,5 @@ Update September 2023:
 -Add AppleLog support. For Lin 2 Log I used official LUT and for the color space conversion matrix I used the same calculator. The right coordinates I found in Apple Log Profile White Paper
 
 Update September 2026:
+
 -Add DJI D-Log support. For Lin 2 Log I used official LUT and for the color space conversion matrix I used the same calculator. The right coordinates I found in DJI D-Log Profile White Paper
