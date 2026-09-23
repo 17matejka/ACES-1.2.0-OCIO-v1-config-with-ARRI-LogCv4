@@ -1,7 +1,7 @@
 # ACES-1.2.0-OCIO-v1-config-with-ARRI-LogCv4-AppleLog-Dlog
 Author: Jakub Matejka
 
-ACES 1.2.0 config with ARRI LogCv4, AppleLog, Dlog added
+ACES 1.2.0 config with ARRI LogCv4, AppleLog, DJI D-Log added
 
 ARRI LogCv4 is officially supported in ACES 1.3 OCIO 2.x configs.
 So I made a custom OCIO 1.x config with LogCv4.
